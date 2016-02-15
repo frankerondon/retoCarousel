@@ -201,6 +201,10 @@
  	padding:0px 0px 0; 	
  }
 
+ #trans{
+ 	transform: rotate(90 deg);
+ }
+
 
 .carousel-inner.vertical {
   height: 100%;
